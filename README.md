@@ -21,7 +21,7 @@ npm i faker@5.5.3 --save-dev
 node_modules/.bin/cypress open
 ```
 
-### Run via terminal
+### Run via terminal.
 
 ````
 npx cypress run
